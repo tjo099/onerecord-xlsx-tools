@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+.vitest-cache/
+.env
+.env.local
+xfsu-status-codes.json
